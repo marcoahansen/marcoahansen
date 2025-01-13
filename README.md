@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Snake animation](https://github.com/marcoahansen/marcoahansen/blob/output/github-contribution-grid-snake.svg)
+
 **EN | PT**  
 Welcome to my GitHub profile! Below you'll find information in both English and Portuguese.  
 Bem-vindo ao meu perfil no GitHub! Abaixo você encontrará informações em inglês e português.
