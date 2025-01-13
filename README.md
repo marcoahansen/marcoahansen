@@ -1,4 +1,4 @@
-# 🌟 Marco Aurelio Hansen
+## Hi there 👋
 
 **EN | PT**  
 Welcome to my GitHub profile! Below you'll find information in both English and Portuguese.  
