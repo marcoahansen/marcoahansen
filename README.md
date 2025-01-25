@@ -11,7 +11,7 @@ Bem-vindo ao meu perfil no GitHub! Abaixo você encontrará informações em ing
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marcoahansen/marcoahansen/output/github-contribution-grid-snake.svg">
 </picture>
 
-_generated with [marcoahansen/snk](https://github.com/platane/snk)
+_generated with [platane/snk](https://github.com/platane/snk)
 
 ## 🌍 About Me (EN)
 
